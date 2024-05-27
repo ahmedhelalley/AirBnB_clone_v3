@@ -137,7 +137,7 @@ Documented commands (type help <topic>):
 ========================================
 EOF  all  create  destroy  help  quit  show  update
 
-(hbnb) all MyModel
+(hbnb) all MyModel..
 ** class doesn't exist **
 (hbnb) create BaseModel
 7da56403-cc45-4f1c-ad32-bfafeb2bb050
